@@ -1,5 +1,5 @@
 test
-
+Conflict branch info
 commit test
 
 46556
