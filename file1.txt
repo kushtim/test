@@ -8,3 +8,4 @@ test test
 Add Line
 stash stash stash
 new branch line
+new second branch line
