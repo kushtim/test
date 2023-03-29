@@ -6,3 +6,5 @@ commit test
 
 test test
 Add Line
+stash stash stash
+new branch line
